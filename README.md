@@ -29,3 +29,15 @@ This project provides stable 5V and 3.3V outputs using AMS1117 voltage regulator
 - Electronics prototyping
 - Low-power hardware systems
 
+  ## Preview
+
+### PCB Layout
+![PCB Layout](<img width="603" height="684" alt="Screenshot 2026-05-10 110533" src="https://github.com/user-attachments/assets/49d0d1ec-7634-4f97-bc19-589ca8858afd" />
+png)
+
+### 3D View
+(Add 3D view screenshot here)
+
+### Schematic
+(Add schematic screenshot here)
+
