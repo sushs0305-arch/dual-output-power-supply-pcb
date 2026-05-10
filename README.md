@@ -32,12 +32,14 @@ This project provides stable 5V and 3.3V outputs using AMS1117 voltage regulator
   ## Preview
 
 ### PCB Layout
-(<img width="603" height="684" alt="Screenshot 2026-05-10 110533" src="https://github.com/user-attachments/assets/49d0d1ec-7634-4f97-bc19-589ca8858afd" />
-)
+<img width="603" height="684" alt="Screenshot 2026-05-10 110533" src="https://github.com/user-attachments/assets/49d0d1ec-7634-4f97-bc19-589ca8858afd" />
+
 
 ### 3D View
-(Add 3D view screenshot here)
+<img width="815" height="772" alt="Screenshot 2026-05-10 110551" src="https://github.com/user-attachments/assets/86e444ab-6549-4d7b-b6eb-caca5d4b2bf2" />
+
 
 ### Schematic
-(Add schematic screenshot here)
+<img width="1077" height="690" alt="Screenshot 2026-05-10 110504" src="https://github.com/user-attachments/assets/a7a87b2b-df68-4031-a5d5-ac88a4351dc2" />
+
 
